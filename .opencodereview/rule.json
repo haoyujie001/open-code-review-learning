@@ -1,0 +1,14 @@
+{
+  "rules": [
+    {
+      "path": "**/*.js",
+      "rule": "重点检查 SQL 注入、硬编码密钥、空值异常、异步错误处理、权限校验缺失和删除类危险操作。",
+      "merge_system_rule": true
+    }
+  ],
+  "exclude": [
+    "**/node_modules/**",
+    "**/dist/**",
+    "**/build/**"
+  ]
+}
