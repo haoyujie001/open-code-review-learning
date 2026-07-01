@@ -28,9 +28,15 @@ async function fetchUser(api, id) {
   return response.data.name;
 }
 
+function deleteUser(db, userId) {
+  db.query("DELETE FROM users WHERE id = " + userId);
+  return true;
+}
+
 module.exports = {
   getUserName,
   login,
   buildUserQuery,
-  fetchUser
+  fetchUser,
+  deleteUser
 };
