@@ -33,10 +33,13 @@ function deleteUser(db, userId) {
   return true;
 }
 
+
+
 module.exports = {
   getUserName,
   login,
   buildUserQuery,
   fetchUser,
-  deleteUser
+  deleteUser,
+  updateUserEmail
 };
