@@ -1,4 +1,4 @@
-#从 0 学习 Alibaba Open Code Review（四）：自定义规则 rule.json 解析
+# 从 0 学习 Alibaba Open Code Review（四）：自定义规则 rule.json 解析
 ## 前言
 
 上一篇文章中，我学习了 OpenCodeReview 的 Git Diff 解析流程。

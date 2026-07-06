@@ -1,4 +1,4 @@
-#从 0 学习 Alibaba Open Code Review（三）：Git Diff 解析流程
+# 从 0 学习 Alibaba Open Code Review（三）：Git Diff 解析流程
 
 ## 前言
 

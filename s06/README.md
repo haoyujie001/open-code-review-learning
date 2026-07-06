@@ -1,4 +1,4 @@
-#从 0 学习 Alibaba Open Code Review（六）：JSON 输出结构与 Markdown 报告设计
+# 从 0 学习 Alibaba Open Code Review（六）：JSON 输出结构与 Markdown 报告设计
 ## 一、前言
 
 前面几篇已经把 OpenCodeReview 的几个核心点串起来了：

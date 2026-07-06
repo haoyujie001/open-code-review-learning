@@ -1,5 +1,5 @@
 
-#从 0 学习 Alibaba Open Code Review（七）：设计一个 Code Review Agent MVP
+# 从 0 学习 Alibaba Open Code Review（七）：设计一个 Code Review Agent MVP
 ## 一、前言
 
 前面六篇已经把 OpenCodeReview 的核心链路基本走了一遍。

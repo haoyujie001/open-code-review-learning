@@ -1,4 +1,4 @@
-#从 0 学习 Alibaba Open Code Review（二）：ocr review 命令入口分析
+# 从 0 学习 Alibaba Open Code Review（二）：ocr review 命令入口分析
 ## 前言
 
 上一篇文章中，从使用者角度跑通了 Alibaba Open Code Review 的基础流程，包括安装配置、`ocr llm test`、`ocr review --preview`、`ocr review`、JSON 输出、自定义规则配置，以及工具调用日志分析。
