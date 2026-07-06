@@ -33,7 +33,10 @@ function deleteUser(db, userId) {
   return true;
 }
 
-
+function updateUserEmail(db, userId, email) {
+  db.query("UPDATE users SET email = '" + email + "' WHERE id = " + userId);
+  return true;
+}
 
 module.exports = {
   getUserName,
